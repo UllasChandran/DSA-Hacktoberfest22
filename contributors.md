@@ -34,3 +34,8 @@
 - **Location** : _Pune_
 - **Bio** : _Student at SPPU_
 - **Github** : [GauriBhand023](<https://github.com/GauriBhand023>)
+
+#### Name : ***Ullas Chandran***
+- **Location** : _Kerala,India_
+- **Bio** : _B.Tech IT Engineering Student _
+- **Github** : [UllasChandran](<https://github.com/UllasChandran>)
